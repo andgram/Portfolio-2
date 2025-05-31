@@ -1,32 +1,32 @@
 export const projects = [
     {
         id: 'project1',
-        title: 'Awesome Website 1',
-        thumbnail: '/images/thumb1.jpg',
-        description: 'This is a cool web project I made using React.',
+        title: 'Ecom Website',
+        thumbnail: '/public/ecom.jpg',
+        description: 'A minimal e-commerce store built with React, featuring product listings, a shopping cart, and responsive design.',
         links: {
-            demo: 'https://your-live-site.com',
-            code: 'https://github.com/your/repo1',
+            demo: 'https://jsfw-ecom.netlify.app',
+            code: 'https://github.com/andgram/JSFW-ecom',
         },
     },
     {
         id: 'project2',
-        title: 'Awesome Website 2',
-        thumbnail: '/images/thumb2.jpg',
-        description: 'Another amazing project, now with animations!',
+        title: 'BidSphere',
+        thumbnail: '/public/bidsphere.jpg',
+        description: 'Bidsphere is a web app built with React and Tailwind CSS that lets users list products and place bids in real time.',
         links: {
-            demo: 'https://your-live-site2.com',
-            code: 'https://github.com/your/repo2',
+            demo: 'https://bid-sphere.netlify.app',
+            code: 'https://github.com/andgram/Semester-Project-2',
         },
     },
     {
         id: 'project3',
-        title: 'Awesome Website 3',
-        thumbnail: '/images/thumb3.jpg',
-        description: 'This one is built with Next.js and Tailwind.',
+        title: 'Holidaze',
+        thumbnail: '/public/holidaze.jpg',
+        description: 'Holidaze is a venue rental platform built with React and Tailwind CSS, allowing users to list venues and book them for holidays or events.',
         links: {
-            demo: 'https://your-live-site3.com',
-            code: 'https://github.com/your/repo3',
+            demo: 'https://holidaze-ag.netlify.app',
+            code: 'https://github.com/andgram/holidaze-ag-pe',
         },
     },
 ];
