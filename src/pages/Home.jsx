@@ -33,7 +33,7 @@ const Home = () => {
             rel="noopener noreferrer"
             className="text-indigo-600 hover:underline"
           >
-            yourprofile
+            Andreas Gramstad
           </a>
         </p>
       </section>
